@@ -13,6 +13,7 @@ I enjoy developing websites, web dashboards, and monitoring systems using variou
 
 ### 1. Integrated Smart Environment Monitor (ISEM)
 An IoT-based environmental monitoring system that displays temperature and humidity data through a web dashboard.
+![Dashboard ISEM](dashboard.png)
 
 ### 2. Personal Portfolio Website
 A personal website showcasing my profile, skills, and digital CV.
