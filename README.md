@@ -17,11 +17,13 @@ An IoT-based environmental monitoring system that displays temperature and humid
 
 ### 2. Personal Portfolio Website
 A personal website showcasing my profile, skills, and digital CV.
+![Portofolio](Portofolio.jpeg)
 
 Website: https://rapitah.my.id/
 
 ### 3. Web PLC Rapitah
 A web-based PLC monitoring project consisting of HMI, Dashboard, and AC interfaces.
+![Dashboard PLC](Dashboard%20PLC.jpeg)
 
 ## Technologies
 - HTML
