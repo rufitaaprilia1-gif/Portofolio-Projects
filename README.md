@@ -25,6 +25,8 @@ Website: https://rapitah.my.id/
 A web-based PLC monitoring project consisting of HMI, Dashboard, and AC interfaces.
 ![Dashboard PLC](Dashboard%20PLC.jpeg)
 
+https://plc.rapitah.my.id/
+
 ## Technologies
 - HTML
 - CSS
